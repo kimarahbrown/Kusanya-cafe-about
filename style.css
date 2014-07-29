@@ -37,5 +37,18 @@ li {
 
 .well {
   padding: 20px;
+  opacity: 0.7; /* opacity [0-1] */
+  -moz-opacity: 0.7 /* opacity [0-1] */
+  -webkit-opacity: 0.7; /* opacity [0-1] */
+  background-color: white;
   
 }
+
+body { 
+     padding-top: 70px; 
+     position: center;
+     background-position:center; 
+     background-color:white;
+     text-align:center;
+}
+
