@@ -1,4 +1,4 @@
 Template
 ========
 
-Kusanya cafe website draft
+Creating a website for kusany cafe
